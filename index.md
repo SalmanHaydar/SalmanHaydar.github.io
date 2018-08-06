@@ -107,7 +107,7 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 
 ## Project Video
 ##### 1. Sentiment Analysis of Bangla Text  
-[![Everything Is AWESOME](http://img.youtube.com/vi/xEG_31NhFK4/0.jpg)](https://youtu.be/xEG_31NhFK4?t=169 "Everything Is AWESOME")
+[![SENTIMENT ANALYSIS](http://img.youtube.com/vi/xEG_31NhFK4/0.jpg)](https://youtu.be/xEG_31NhFK4?t=169 "SENTIMENT ANALYSIS")
 ## Contact
 S.O Road,Narayanganj,Dhaka,Bangladesh   
 Cell: +8801834018687   
