@@ -103,7 +103,9 @@ Dhakeswari Mills High School, Bandar, Narayanganj
 
 *   Acting as an organizer on a group named ["DIU Research and Publication Group"](https://www.facebook.com/groups/diuresearch/)
 *   Acting as a vice president of DIU Research and Journal taskforce in DIU Computer Programming Club (CPC)
-
+## Project Video
+##### 1. Sentiment Analysis of Bangla Text  
+[![Everything Is AWESOME](http://img.youtube.com/vi/xEG_31NhFK4/0.jpg)](https://youtu.be/xEG_31NhFK4?t=169 "Everything Is AWESOME")
 ## Contact
 S.O Road,Narayanganj,Dhaka,Bangladesh   
 Cell: +8801834018687   
